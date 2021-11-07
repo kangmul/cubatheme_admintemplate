@@ -263,74 +263,74 @@ var trans = [{
         en: 'General',
         pt: 'Geral',
         es: 'Generalo',
-        fr: 'GÃ©nÃ©rale',
+        fr: 'GÃƒÂ©nÃƒÂ©rale',
         de: 'Generel',
-        cn: 'ä¸€èˆ¬',
-        ae: 'Ø­Ø¬Ù†Ø±Ø§Ù„ Ù„ÙˆØ§Ø¡'
+        cn: 'Ã¤Â¸â‚¬Ã¨Ë†Â¬',
+        ae: 'Ã˜Â­Ã˜Â¬Ã™â€ Ã˜Â±Ã˜Â§Ã™â€ž Ã™â€žÃ™Ë†Ã˜Â§Ã˜Â¡'
     }, {
         en: 'Dashboards,widgets & layout.',
-        pt: 'PainÃ©is, widgets e layout.',
-        es: 'Paneloj, fenestraÄµoj kaj aranÄo.',
+        pt: 'PainÃƒÂ©is, widgets e layout.',
+        es: 'Paneloj, fenestraÃ„Âµoj kaj aranÃ„Âo.',
         fr: "Tableaux de bord, widgets et mise en page.",
         de: 'Dashboards, widgets en lay-out.',
-        cn: 'ä»ªè¡¨æ¿ï¼Œå°å·¥å…·å’Œå¸ƒå±€ã€‚',
-        ae: 'Ù„ÙˆØ­Ø§Øª Ø§Ù„Ù…Ø¹Ù„ÙˆÙ…Ø§Øª ÙˆØ§Ù„Ø£Ø¯ÙˆØ§Øª ÙˆØ§Ù„ØªØ®Ø·ÙŠØ·.'
+        cn: 'Ã¤Â»ÂªÃ¨Â¡Â¨Ã¦ÂÂ¿Ã¯Â¼Å’Ã¥Â°ÂÃ¥Â·Â¥Ã¥â€¦Â·Ã¥â€™Å’Ã¥Â¸Æ’Ã¥Â±â‚¬Ã£â‚¬â€š',
+        ae: 'Ã™â€žÃ™Ë†Ã˜Â­Ã˜Â§Ã˜Âª Ã˜Â§Ã™â€žÃ™â€¦Ã˜Â¹Ã™â€žÃ™Ë†Ã™â€¦Ã˜Â§Ã˜Âª Ã™Ë†Ã˜Â§Ã™â€žÃ˜Â£Ã˜Â¯Ã™Ë†Ã˜Â§Ã˜Âª Ã™Ë†Ã˜Â§Ã™â€žÃ˜ÂªÃ˜Â®Ã˜Â·Ã™Å Ã˜Â·.'
     }, {
         en: 'Dashboards',
-        pt: 'PainÃ©is',
+        pt: 'PainÃƒÂ©is',
         es: 'Paneloj',
         fr: 'Tableaux',
         de: 'Dashboards',
-        cn: ' ä»ªè¡¨æ¿ ',
-        ae: 'ÙˆØ­Ø§Øª Ø§Ù„Ù‚ÙŠØ§Ø¯Ø© '
+        cn: ' Ã¤Â»ÂªÃ¨Â¡Â¨Ã¦ÂÂ¿ ',
+        ae: 'Ã™Ë†Ã˜Â­Ã˜Â§Ã˜Âª Ã˜Â§Ã™â€žÃ™â€šÃ™Å Ã˜Â§Ã˜Â¯Ã˜Â© '
     }, {
         en: 'Default',
-        pt: 'PadrÃ£o',
+        pt: 'PadrÃƒÂ£o',
         es: 'Vaikimisi',
-        fr: 'DÃ©faut',
+        fr: 'DÃƒÂ©faut',
         de: 'Standaard',
-        cn: 'é›»å­å•†å‹™',
-        ae: 'ÙˆØ¥ÙØªØ±Ø§Ø¶ÙŠ'
+        cn: 'Ã©â€ºÂ»Ã¥Â­ÂÃ¥â€¢â€ Ã¥â€¹â„¢',
+        ae: 'Ã™Ë†Ã˜Â¥Ã™ÂÃ˜ÂªÃ˜Â±Ã˜Â§Ã˜Â¶Ã™Å '
     }, {
         en: 'Ecommerce',
-        pt: 'ComÃ©rcio eletrÃ´nico',
+        pt: 'ComÃƒÂ©rcio eletrÃƒÂ´nico',
         es: 'Komerco',
-        fr: 'Commerce Ã©lectronique',
+        fr: 'Commerce ÃƒÂ©lectronique',
         de: 'E-commerce',
-        cn: 'é›»å­å•†å‹™',
-        ae: 'ÙˆØ§Ù„ØªØ¬Ø§Ø±Ø© Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ©'
+        cn: 'Ã©â€ºÂ»Ã¥Â­ÂÃ¥â€¢â€ Ã¥â€¹â„¢',
+        ae: 'Ã™Ë†Ã˜Â§Ã™â€žÃ˜ÂªÃ˜Â¬Ã˜Â§Ã˜Â±Ã˜Â© Ã˜Â§Ã™â€žÃ˜Â¥Ã™â€žÃ™Æ’Ã˜ÂªÃ˜Â±Ã™Ë†Ã™â€ Ã™Å Ã˜Â©'
     }, {
         en: 'Widgets',
         pt: 'Ferramenta',
         es: 'Vidin',
         fr: 'Widgets',
         de: 'Widgets',
-        cn: 'å°éƒ¨ä»¶',
-        ae: 'ÙˆØ§Ù„Ø­Ø§Ø¬ÙŠØ§Øª'
+        cn: 'Ã¥Â°ÂÃ©Æ’Â¨Ã¤Â»Â¶',
+        ae: 'Ã™Ë†Ã˜Â§Ã™â€žÃ˜Â­Ã˜Â§Ã˜Â¬Ã™Å Ã˜Â§Ã˜Âª'
     }, {
         en: 'Page layout',
-        pt: 'Layout da pÃ¡gina',
-        es: 'PaÄa aranÄo',
+        pt: 'Layout da pÃƒÂ¡gina',
+        es: 'PaÃ„Âa aranÃ„Âo',
         fr: 'Tableaux',
         de: 'Mise en page',
-        cn: 'é é¢ä½ˆå±€',
-        ae: 'ÙˆØªØ®Ø·ÙŠØ· Ø§Ù„ØµÙØ­Ø©'
+        cn: 'Ã© ÂÃ©ÂÂ¢Ã¤Â½Ë†Ã¥Â±â‚¬',
+        ae: 'Ã™Ë†Ã˜ÂªÃ˜Â®Ã˜Â·Ã™Å Ã˜Â· Ã˜Â§Ã™â€žÃ˜ÂµÃ™ÂÃ˜Â­Ã˜Â©'
     }, {
         en: 'Applications',
-        pt: 'FormulÃ¡rios',
+        pt: 'FormulÃƒÂ¡rios',
         es: 'Aplikoj',
         fr: 'Applications',
         de: 'Toepassingen',
-        cn: 'æ‡‰ç”¨é ˜åŸŸ',
-        ae: 'ÙˆØ§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª'
+        cn: 'Ã¦â€¡â€°Ã§â€Â¨Ã© ËœÃ¥Å¸Å¸',
+        ae: 'Ã™Ë†Ã˜Â§Ã™â€žÃ˜ÂªÃ˜Â·Ã˜Â¨Ã™Å Ã™â€šÃ˜Â§Ã˜Âª'
     }, {
         en: 'Ready to use Apps',
         pt: 'Pronto para usar aplicativos',
         es: 'Preta uzi Apps',
-        fr: ' Applications prÃªtes Ã  lemploi ',
+        fr: ' Applications prÃƒÂªtes Ãƒ  lemploi ',
         de: 'Klaar om apps te gebruiken',
-        cn: 'ä»ªè¡¨æ¿',
-        ae: 'Ø¬Ø§Ù‡Ø² Ù„Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø§Ù„ØªØ·Ø¨ÙŠÙ‚Ø§Øª'
+        cn: 'Ã¤Â»ÂªÃ¨Â¡Â¨Ã¦ÂÂ¿',
+        ae: 'Ã˜Â¬Ã˜Â§Ã™â€¡Ã˜Â² Ã™â€žÃ˜Â§Ã˜Â³Ã˜ÂªÃ˜Â®Ã˜Â¯Ã˜Â§Ã™â€¦ Ã˜Â§Ã™â€žÃ˜ÂªÃ˜Â·Ã˜Â¨Ã™Å Ã™â€šÃ˜Â§Ã˜Âª'
     },
 
 ];
